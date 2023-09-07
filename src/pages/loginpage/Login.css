@@ -1,0 +1,34 @@
+.outer-box{
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.login-container {
+  border: 1.5px solid rgb(191, 190, 190);
+  border-radius: 10px;
+  height: auto;
+  width: 20vw;
+  padding: 5rem;
+}
+.login-header {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.login-heading {
+  font-size: 18px;
+  font-weight: 500;
+}
+.login-sub-heading {
+  font-size: 16px;
+  font-weight: 400;
+}
+.MuiButton-text {
+    padding: 0px !important;
+   }

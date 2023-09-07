@@ -1,0 +1,31 @@
+.signup-container {
+  border: 1.5px solid rgb(191, 190, 190);
+  border-radius: 10px;
+  height: auto;
+  width: 60vw;
+  padding: 2rem; 
+}
+.heading{
+    font-size: 18px;
+    font-weight: 550;
+}
+.sub-heading{
+    font-size: 16px;
+    font-weight:550;
+}
+.grid-two {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  /* border: 1px solid red; */
+  padding: 1rem;
+  width: 100%;
+  height: auto;
+}
+.img-text{
+    font-size: 12px;
+    font-weight: 400;
+    font-family: Arial, Helvetica, sans-serif;
+
+}

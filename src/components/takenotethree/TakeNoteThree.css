@@ -1,0 +1,55 @@
+.note-three-paper{
+    width: 90%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    gap: .5rem;
+    padding: 0.5rem;
+}
+.note-three-title-box{
+    width: 90%;
+    height: 3vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.note-three-title{
+    font-weight: 500;
+    font-size: medium;
+}
+
+.note-three-description-box{
+    width: 90%;
+    min-height: 3vh;
+    max-height: fit-content;
+       
+}
+.note-three-descp{
+    width: 100%;
+    word-wrap: break-word;
+    font-weight: 400;
+    font-size: medium;
+}
+.note-three-bin-icons-box{
+    width: 95%;
+    height: 3vh;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;  
+    gap: 0.5rem;
+}
+.note-three-icons-box{
+    width: 95%;
+    height: 3vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+   
+    
+}
+.note-three-icons{
+    display: none;
+    
+}

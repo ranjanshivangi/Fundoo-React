@@ -1,0 +1,14 @@
+.color-popper-container{
+    display: flex;
+    height: 3vh;
+    width: auto;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 1rem;
+}
+.color-div{
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+}

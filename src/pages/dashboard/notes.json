@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "userId": 1,
+    "title": "Note-1",
+    "description": "kkigogogog1",
+    "color": null,
+    "isArchive": false,
+    "isTrash": false
+  },
+  {
+    "id": 2,
+    "userId": 1,
+    "title": "Note-2",
+    "description": "kkigogogog1",
+    "color": null,
+    "isArchive": false,
+    "isTrash": false
+  },
+  {
+    "id": 3,
+    "userId": 1,
+    "title": "Note-3",
+    "description": "kkigogogog1",
+    "color": null,
+    "isArchive": false,
+    "isTrash": false
+  },
+  {
+    "id": 4,
+    "userId": 1,
+    "title": "Note-4",
+    "description": "kkigogogog1",
+    "color": null,
+    "isArchive": false,
+    "isTrash": false
+  },
+  {
+    "id": 5,
+    "userId": 1,
+    "title": "Note-5",
+    "description": "hkdh2h2hbdkhjekbskksvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvuvouugujbjjjjjjjjjjj",
+    "color": null,
+    "isArchive": false,
+    "isTrash": false
+  },
+  {
+    "id": 6,
+    "userId": 1,
+    "title": "Note-6",
+    "description": "kkigogogog1",
+    "color": null,
+    "isArchive": false,
+    "isTrash": false
+  }
+]

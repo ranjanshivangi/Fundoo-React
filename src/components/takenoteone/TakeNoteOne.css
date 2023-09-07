@@ -1,0 +1,19 @@
+
+.note-one-paper{
+    width: 40vw;
+    height: 5vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0.2rem;
+}
+.note-one-text{
+    /* border: 1px solid black; */
+    width: 70%;
+    height: 80%;
+    display: flex;
+    align-items: center;
+    font-weight: 500;
+    color: gray;
+    
+}
